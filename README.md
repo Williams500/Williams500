@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Williams500
-- 👀 I’m interested in LLM/AI Agent
-- 💞️ I’m looking to collaborate on Code Agent 
+- 👀 I’m working on AI Agent
+- 💞️ I’m looking to collaborate on AI/Code Agent 
 - 📫 How to reach me `williamto2048@gmail.com`
 
